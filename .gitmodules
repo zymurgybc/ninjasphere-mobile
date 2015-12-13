@@ -1,0 +1,3 @@
+[submodule "plugins/cordova-plugin-splashscreen"]
+	path = plugins/cordova-plugin-splashscreen
+	url = https://github.com/apache/cordova-plugin-splashscreen
